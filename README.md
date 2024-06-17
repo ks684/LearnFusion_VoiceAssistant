@@ -1,2 +1,2 @@
 # LearnFusion_VoiceAssistant
-A personal voice assistant developed in Python.
+Excited to share my latest project—a Voice-Activated Personal Assistant using Python! This assistant uses SpeechRecognition to capture and interpret voice commands, pyttsx3 for text-to-speech responses, and pywhatkit for playing YouTube videos. It can tell the current date and time, provide brief Wikipedia summaries, and respond to basic greetings. The project showcases dynamic, seamless and efficient interaction.
